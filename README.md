@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**yuki-s2/yuki-s2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## レシピアプリ
+https://my-recipe-yuki-s2s-projects.vercel.app/
 
-Here are some ideas to get you started:
+## 使用技術
+言語: TypeScript, Next.js, React.js, JavaScript, HTML, CSS
+その他: Firebase, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 主な機能
+- Firebaseを使用したログイン機能
+- レシピの名前、画像、作り方を登録
+- 登録したレシピの編集、削除
+- 登録したレシピから今日の献立をピックアップする機能
+ 
+ <img src="https://github.com/yuki-s2/yuki-s2/blob/main/スクリーンショット 2026-01-04 15.55.34.png">
