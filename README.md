@@ -1,5 +1,6 @@
 ## レシピアプリ
 https://my-recipe-yuki-s2s-projects.vercel.app/
+https://github.com/yuki-s2/my-recipe
 
 ## 使用技術
 言語: TypeScript, Next.js, React.js, JavaScript, HTML, CSS
