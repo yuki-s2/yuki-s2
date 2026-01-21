@@ -14,12 +14,12 @@ https://github.com/yuki-s2/my-recipe
 - 登録したレシピから今日の献立をピックアップする機能
 
  <p>▼ レシピを登録</p>
- <img width="340" height="auto" alt="スクリーンショット 2026-01-05 21 12 50" src="https://github.com/user-attachments/assets/33a8561c-f381-4662-a80c-6aaa1e409781" />
+<img width="694" height="1055" alt="スクリーンショット 2026-01-21 22 23 39" src="https://github.com/user-attachments/assets/7e550692-bb26-4d01-bc60-92562ab98d8b" />
  <p>▼ 登録したレシピ一覧・今日の献立を選択</p>
- <img width="340" height="auto" alt="スクリーンショット 2026-01-04 16 25 04" src="https://github.com/user-attachments/assets/fbd615d7-03c1-48af-a8cb-46a3e6cec40e" />
- <p>▼ 選択したレシピ一覧</p>
- <img width="340" height="auto" alt="スクリーンショット 2026-01-05 21 14 10" src="https://github.com/user-attachments/assets/9b49622d-80fc-430e-b937-9f13b15e0731" />
+<img width="527" height="397" alt="スクリーンショット 2026-01-21 22 29 06" src="https://github.com/user-attachments/assets/51320dd1-2dac-41cc-8c96-02160f549a85" />
+ <p>▼ 今日の献立</p>
+ <img width="467" height="400" alt="スクリーンショット 2026-01-21 22 29 33" src="https://github.com/user-attachments/assets/4659a941-aa3a-43e3-8558-1882723ac603" />
  <p>▼ レシピ詳細</p>
- <img width="340" height="auto" alt="スクリーンショット 2026-01-04 16 26 07" src="https://github.com/user-attachments/assets/06897aea-d717-4165-9153-2241e9323842" />
+ <img width="740" height="1120" alt="スクリーンショット 2026-01-21 22 27 53" src="https://github.com/user-attachments/assets/fe0b9660-2d67-4086-9497-cf58893b2306" />
 
 
